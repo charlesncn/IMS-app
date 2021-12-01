@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Inventory management app</string>
+    <string-array name="doctype">
+        <item>Select</item>
+        <item>Cash Sale Receipt</item>
+        <item>Invoice</item>
+        <item>Quotation</item>
+    </string-array>
+</resources>
